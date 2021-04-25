@@ -5,7 +5,7 @@ MATLAB function to calculate Dynamic Range of 10-bit 4:2:0 YUV video sequences
 The provided MATLAB script calculates the Dynamic Range of 10-bit 4:2:0 YUV video sequences. It can be easily modified to calculate the same for higher or lower bit-depth sequences and/or other color sub-sampling.
 
 Function call: 
-              CalculateDynamicRange(sequence_name, R, C)
+              ``` CalculateDynamicRange(sequence_name, R, C) ```
               where sequence_name is the name of your video sequence, R is your video height and C is the video width.
               
 Example usage: For calculating DR of a video sequence named "Video1.yuv" of 3840x2160 resolution, the function needs to be called as:
