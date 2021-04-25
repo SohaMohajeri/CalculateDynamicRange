@@ -17,7 +17,7 @@ Example usage: For calculating DR of a video sequence named "Video1.yuv" of 3840
         
 ## Citation
 
-If you find this file useful and use it your work, please provide a link to this Github page in your publication.
+If you find this file useful and use it in your work, please provide a link to this Github page in your publication.
 
 ## Related Literature Work
  You might be also interested in our work on 4K, HDR Gaming content here: https://github.com/NabajeetBarman/GamingHDRVideoSET
