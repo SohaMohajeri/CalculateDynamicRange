@@ -1,4 +1,4 @@
-# CalculateDynamicRange
+# Calculate Dynamic Range
 MATLAB function to calculate Dynamic Range of 10-bit 4:2:0 YUV video sequences
 
 
@@ -17,7 +17,9 @@ Example usage: For calculating DR of a video sequence named "Video1.yuv" of 3840
         
 ## Citation
 
-If you find this file useful and use it in your work, please provide a link to this Github page in your publication.
+If you find this file useful and use it in your work, please provide a link to this Github page in your publication and cite our paper below:
+
+`N. Barman and M. G. Martini, "User Generated HDR Gaming Video Streaming: Dataset, Codec Comparison and Challenges," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3077384.`
 
 ## Related Literature Work
  You might be also interested in our work on 4K, HDR Gaming content here: https://github.com/NabajeetBarman/GamingHDRVideoSET
