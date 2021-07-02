@@ -25,4 +25,4 @@ If you find this file useful and use it in your work, please provide a link to t
  You might be also interested in our work on 4K, HDR Gaming content here: https://github.com/NabajeetBarman/GamingHDRVideoSET
 
 ## Contact
-Nabajeet Barman, Kingston University, London, UK (n.barman@kingston.ac.uk, n.barman@ieee.org)
+Nabajeet Barman, Kingston University, London, UK (n.barman@kingston.ac.uk, n.barman@ieee.org
